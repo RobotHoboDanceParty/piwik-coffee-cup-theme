@@ -1,7 +1,16 @@
 {
-    "name": "Coffee Cup",
+    "name": "CoffeeCup",
     "description": "A shoothing background for those who missed their first cup of the day.",
     "version": "0.1.0",
     "theme": true,
-    "stylesheet": "stylesheets/theme.less"
+    "stylesheet": "stylesheets/theme.less",
+    "license":"GPL v3+",
+    "authors": [
+         {
+             "name": "Andre Fremaux",
+             "email": "Anj@hotmail.co.nz",
+             "homepage": "https://github.com/RobotHoboDanceParty/piwik-coffee-cup-theme"
+         }
+     ],
+     "keywords":["theme", "coffee", "cup", "coffeecup"]
 }
