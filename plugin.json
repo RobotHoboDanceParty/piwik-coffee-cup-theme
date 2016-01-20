@@ -5,6 +5,7 @@
     "theme": true,
     "stylesheet": "stylesheets/theme.less",
     "license":"GPL v3+",
+    "homepage": "https://github.com/RobotHoboDanceParty/piwik-coffee-cup-theme",
     "authors": [
          {
              "name": "Andre Fremaux",
