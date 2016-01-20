@@ -1,7 +1,7 @@
 {
     "name": "CoffeeCup",
     "description": "A shoothing background for those who missed their first cup of the day.",
-    "version": "0.1.0",
+    "version": "0.1.3",
     "theme": true,
     "stylesheet": "stylesheets/theme.less",
     "license":"GPL v3+",
